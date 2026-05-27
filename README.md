@@ -96,7 +96,7 @@ Author: Student ETTI-CTI BUCHAREST
 
 ![Floor 1 4 2 3 request](images/demo1.png)
 
-
+![test](./images/demo1.png)
 
 ### Requests
 

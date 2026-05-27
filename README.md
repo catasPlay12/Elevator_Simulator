@@ -1,4 +1,4 @@
- Elevator Simulator (C++)
+## Elevator Simulator (C++)
 
 
 
@@ -8,7 +8,7 @@ A console-based elevator simulation built in C++ using Object-Oriented Programmi
 
 
 
- Features
+## Features
 
 
 
@@ -30,7 +30,7 @@ A console-based elevator simulation built in C++ using Object-Oriented Programmi
 
 
 
- Commands
+## Commands
 
 
 
@@ -50,7 +50,7 @@ A console-based elevator simulation built in C++ using Object-Oriented Programmi
 
 
 
- How to run
+## How to run
 
 
 
@@ -62,7 +62,7 @@ g++ main.cpp elevator.cpp -o elevator
 
 
 
-RUN:
+## RUN:
 
 .\\elevator.exe (Windows)
 
@@ -70,7 +70,7 @@ RUN:
 
 
 
-Algorithm
+## Algorithm
 
 
 
@@ -96,7 +96,6 @@ Author: Student ETTI-CTI BUCHAREST
 
 ![Floor 1 4 2 3 request](images/demo1.png)
 
-![test](./images/demo1.png)
 
 ### Requests
 

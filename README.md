@@ -94,17 +94,17 @@ Author: Student ETTI-CTI BUCHAREST
 
 \### Start
 
-!\[Start](images/demo1.png)
+!\[Floor 1 4 2 3 request](images/demo1.png)
 
 
 
 \### Requests
 
-!\[Requests](images/demo2.png)
+!\[Floors 1 3 2 5 4 and execution](images/demo2.png)
 
 
 
 \### Run simulation
 
-!\[Run](images/demo3.png)
+!\[R 4 1 5 2 and run](images/demo3.png)
 
